@@ -36,7 +36,7 @@ a {
 
 a:hover,
 a:focus {
-    color: gray;
+    color: rgb(107, 103, 103);
 }
 
 .ri-code-s-slash-fill {
